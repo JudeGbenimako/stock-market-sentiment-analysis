@@ -81,7 +81,7 @@ Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, NLTK, Gensim, XGBoost, Tr
 
 ## Project Files
 
-- `stock_sentiment_analysis.ipynb` — Jupyter Notebook containing the analysis and modeling experiments.
+- [stock_sentiment_analysis.ipynb](stock_sentiment_analysis.ipynb) — Jupyter Notebook containing the analysis and modeling experiments.
 - `README.md` — Project documentation.
 
 The original training and test datasets are not included in this repository.
