@@ -1,0 +1,12 @@
+# Original academic datasets and generated predictions
+train.csv
+test.csv
+pred_23.csv
+*.pkl
+*.joblib
+# Notebook/Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/

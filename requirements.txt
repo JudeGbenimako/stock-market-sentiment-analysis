@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+nltk
+matplotlib
+seaborn
+xgboost
+gensim
+sentence-transformers
+transformers
+tensorflow
+wordcloud
+contractions
+pyspellchecker
+tqdm
+jupyter
